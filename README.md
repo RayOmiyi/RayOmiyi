@@ -1,9 +1,16 @@
 ### Hi there 👋
 hi there, My name is Ray Omiyi
 
- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+ 🔭 I’m currently working on 
+ firebase authentication with react...
+- 🌱 I’m currently learning authentication with firebase 🔥🔥🔥
+- 👯 I’m looking to collaborate on web projects and also share my ideas 💡💡💡💡...
+-  📫 How to reach me:
+-  rayikponmwonsaomiyi@gmail.com
+-  ⚡ Fun fact: ..
+-  i love watching animes🧞🧞🧞
+-  i also love watching football ⚽⚽⚽ (hala Madrid 😅😅😏)
+-  
 <!--
 **RayOmiyi/RayOmiyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
