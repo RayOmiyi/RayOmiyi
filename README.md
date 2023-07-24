@@ -11,7 +11,7 @@ Open to internships and entry level roles💼💼
 
 - 🔭 I’m currently working on **Firebase authentication with react**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Websockets, Git**
 
 - 👯 I’m looking to collaborate on **Frontend projects👍👍**
 
