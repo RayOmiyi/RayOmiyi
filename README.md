@@ -9,13 +9,13 @@
 <p align="left"> <a href="https://twitter.com/omiyi_ray" target="blank"><img src="https://img.shields.io/twitter/follow/omiyi-ray?logo=twitter&style=for-the-badge" alt="omiyi-ray" /></a> </p>
 Open to internships and entry level roles💼💼
 
-- 🔭 I’m currently working on **Firebase authentication with react and devOps projects**
+- 🔭 I’m currently working on **devOps projects**
   
-- 🌱 I’m currently learning **Websockets, Git, kubernetes**
+- 🌱 I’m currently learning **Websockets, Git, kubernetes, Firebase**
 
 - 👯 I’m looking to collaborate on **open source projects👍👍**
 
-- 🤝 I’m looking for help with **My journey as a frontend developer**
+
 
 - 📫 How to reach me **rayikponmwonsaomiyi@gmail.com**
 
