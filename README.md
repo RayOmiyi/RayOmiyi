@@ -7,13 +7,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayomiyi" alt="rayomiyi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/omiyi_ray" target="blank"><img src="https://img.shields.io/twitter/follow/omiyi-ray?logo=twitter&style=for-the-badge" alt="omiyi_ray" /></a> </p>
-Open to internships and entry level roles💼💼
+Open to internships and entry level roles
 
 - 🔭 I’m currently working on **frontend projects & react authentication with firebase**
   
 - 🌱 I’m currently learning **Websockets, Git, Firebase**
 
-- 👯 I’m looking to collaborate on **open source projects👍👍**
+- 👯 I’m looking to collaborate on **open source projects**
 
 
 
