@@ -13,7 +13,7 @@ Open to internships and entry level roles💼💼
 
 - 🌱 I’m currently learning **Websockets, Git**
 
-- 👯 I’m looking to collaborate on **Frontend projects👍👍**
+- 👯 I’m looking to collaborate on **open source projects👍👍**
 
 - 🤝 I’m looking for help with **My journey as a frontend developer**
 
